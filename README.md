@@ -10,7 +10,7 @@ I created an API which has Get option that allows you to see the details of the 
 
 How to use this API?
 
-Just open post man and run flask, copy the running http given and paste it in Postman.
+Just open post man and run flask, Run the python file by using 'python main.py' in the terminal copy the running http given and paste it in Postman.
 Params:
 - Key 'name' and value 'game title'
 
